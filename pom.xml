@@ -12,9 +12,9 @@
 
     <!-- 定义本项目信息 -->
     <groupId>com.thatman</groupId>
-    <artifactId>test-three-service</artifactId>
+    <artifactId>test-four-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>test-three-service-</name>
+    <name>test-four-service-</name>
     <description>测试服务</description>
 
 
